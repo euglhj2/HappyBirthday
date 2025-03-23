@@ -7,10 +7,10 @@
   "text1": "今天是陪你度过的第一个生日!",
   "textInChatBox": "我很感动 所以以后一定会听老公的话...",
   "sendButtonLabel": "赞同",
-  "text2": "我想给你一个惊喜",
-  "text3": "我认真的想了很久",
-  "text4": "我认识到，我想要做一些",
-  "text4Adjective": "特殊的事情",
+  "text2": "我会让你每天开开心心",
+  "text3": "一起游玩世界",
+  "text4": "一辈子只对你好",
+  "text4Adjective": "句句如真心",
   "text5Entry": "因为，",
   "text5Content": "你是我最爱的女孩",
   "smiley": ":)",
@@ -20,7 +20,7 @@
   "outroText": "希望能快点给你一个爱的大拥抱!",
   "replayText": "或者……",
   "outroSmiley": ":)",
-  "music": "./music/bgMusic.mp3",
+  "music": "./music/bgMusicme.mp3",
   "fonts": [
     {
       "name": "Ma Shan Zheng",
